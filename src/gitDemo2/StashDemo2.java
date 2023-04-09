@@ -9,5 +9,9 @@ public class StashDemo2 {
 		
 	}
 	
+	public void get() {
+		System.out.println("Stahs HW");
+	}
+	
 
 }
